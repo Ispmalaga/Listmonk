@@ -1,0 +1,2 @@
+# Listmonk
+Autoinstall Listmonk
